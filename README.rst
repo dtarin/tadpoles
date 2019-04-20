@@ -23,3 +23,4 @@ To use it::
 
 The images get saved to ./img/ in year/month subdirectories.
 
+Note: That videos are also downloaded but must be renamted .mp4 to view them again. 
